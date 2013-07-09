@@ -9,6 +9,6 @@ Install
 
     % cd ~
     % git init
-    % git remote add origin git://github.com/masuilab/furnipi-dotfiles.git
+    % git remote add origin https://github.com/masuilab/furnipi-dotfiles.git
     % git pull origin master
     % git reset --hard HEAD
