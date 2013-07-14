@@ -1,6 +1,6 @@
 #!/bin/sh
 rm -rf ~/tmp
-rm ~/.gitconfig
+rm -f ~/.gitconfig
 echo "[color]\n\tui = auto" > ~/.gitconfig
-rm ~/.zsh-history
-rm ~/.tw.yml
+rm -f ~/.zsh-history
+rm -f ~/.tw.yml
