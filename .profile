@@ -10,6 +10,7 @@ export LESSOPEN='| /usr/share/source-highlight/src-hilite-lesspipe.sh %s'
 ## PATH
 export PATH=/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:$PATH
 export PATH=$HOME/bin:$PATH
+export PATH=/usr/local/node/bin:$PATH
 
 ## Java
 export 'JAVA_OPTS=-d64'
